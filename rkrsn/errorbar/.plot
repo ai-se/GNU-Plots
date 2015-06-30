@@ -3,7 +3,7 @@ set output filename.".eps"
 set title filename
 set xlabel "Features"
 set ylabel "Magnitude of changes"
-set xrange [0:21]
+# set xrange [0:21]
 set yrange [-0.6:+0.6]
 set xtics border in scale 1,0.5 nomirror rotate by -45 offset character 0, 0, 0     norangelimit
 set size ratio 1
