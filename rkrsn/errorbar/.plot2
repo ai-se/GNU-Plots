@@ -1,5 +1,5 @@
 set terminal postscript eps enhanced color 20 "Helvetica"
-set output filename."-1.eps"
+set output filename."-2.eps"
 set title filename
 set boxwidth 0.9 absolute
 set style fill solid 1.00 border lt 0
@@ -16,4 +16,4 @@ set yrange [0:110] noreverse nowriteback
 x = 0.0
 i = 22
 ## Last datafile plotted: "ivy.csv"
-plot filename.".csv" using 4:xtic(1) ti col, '' u 5 ti col, '' u 6 ti col
+plot filename.".csv" using 2:xtic(1) ti col, '' u 3 ti col
