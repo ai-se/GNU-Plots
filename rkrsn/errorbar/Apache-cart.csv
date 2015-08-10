@@ -1,0 +1,9 @@
+Base 1 0.0 0.0 0.0
+Handle 2 0.0 0.0 0.0
+HostnameLookups 3 100.0 75.0 100.0
+KeepAlive 4 100.0 85.4166666667 100.0
+EnableSendfile 5 100.0 75.0 100.0
+FollowSymLinks 6 100.0 100.0 100.0
+AccessLog 7 100.0 98.6979166667 100.0
+ExtendedStatus 8 100.0 100.0 100.0
+InMemory 9 100.0 75.0 100.0
